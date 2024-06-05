@@ -22,6 +22,8 @@ The MNIST data set will be used which consist of images of handwritten digits.
 5. Search for best model
 6. Evaulate using test set
 
+The file "nguyen_image_classification.ipynb" performs the data analysis.
+
 ## Author
 The author of this repository is Tina Nguyen.
 
